@@ -9,8 +9,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage":"https://karpuzbot.github.io/website",
+  "homepage": "https://karpuzbot.github.io/website",
   "dependencies": {
-    "gh-pages": "^2.2.0"
+    "gh-pages": "^2.2.0",
+    "startbootstrap-grayscale": "^5.0.9"
   }
 }
